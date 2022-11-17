@@ -1,5 +1,5 @@
 {
-    "name": "sheerockoff/bitrix-elastic-indexer",
+    "name": "sheerockoff/bitrix-elastic",
     "description": "Bitrix infoblocks indexer into Elasticsearch.",
     "type": "library",
     "license": "Unlicense",
